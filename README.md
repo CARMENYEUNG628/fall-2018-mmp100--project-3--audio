@@ -13,10 +13,11 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 5. Edit this `README.md` file by adding a link to your project under the **Link** section and include a description under the **Description** section. Both appear below.
 
 ### Link
-[Link to your project](http://www.add-link-to-your-project-here.com)
+[Link to your project](http://http://mmp.bmcc.cuny.edu/jiawen.yang/fall-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+"Zutter" is one of my favorite song of Big Bang. It's a famous KPOP song and won a lot of awards so far. I downloaded "Mellow Mono.mp3" from SoundCloud,
+then remix both song together IN Audacity. Hope you guys enjoy it.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
